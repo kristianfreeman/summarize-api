@@ -15,5 +15,11 @@
     "typescript": "^5.5.2",
     "vitest": "1.5.0",
     "wrangler": "^3.60.3"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^0.0.54",
+    "ai": "^3.3.19",
+    "cheerio": "^1.0.0",
+    "hono": "^4.5.9"
   }
 }
